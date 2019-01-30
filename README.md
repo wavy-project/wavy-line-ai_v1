@@ -1,22 +1,95 @@
-![Page 1](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000001.jpg)
-![Page 2](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000002.jpg)
-![Page 3](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000003.jpg)
-![Page 4](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000004.jpg)
-![Page 5](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000005.jpg)
-![Page 6](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000006.jpg)
-![Page 7](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000007.jpg)
-![Page 8](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000008.jpg)
-![Page 9](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000009.jpg)
-![Page 10](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000010.jpg)
-![Page 11](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000011.jpg)
-![Page 12](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000012.jpg)
-![Page 13](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000013.jpg)
-![Page 14](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000014.jpg)
-![Page 15](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000015.jpg)
-![Page 16](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000016.jpg)
-![Page 17](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000017.jpg)
-![Page 18](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000018.jpg)
-![Page 19](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000019.jpg)
-![Page 20](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000020.jpg)
-![Page 21](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000021.jpg)
-![Page 22](https://github.com/mog96/cs221-project/blob/master/CS%20221%20Final%20Project%20-%20Final%20Report/CS%20221%20Final%20Project%20-%20Final%20Report_000022.jpg)
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth3cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth3cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-2.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-4.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-5.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-6.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-7.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-8.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-4.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-6.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-7.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-8.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-9.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth10cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-11.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-8.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts->3-plus-random-range-wh-div-30_start_middle_no-seed-6.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2.25x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-9.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth10cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-11.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-8.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid118x68depth4cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth10cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-4x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-11.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-8.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-1.75x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-6.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-2x-div-30-penalty-num-surr-pts-%3E3-plus-random-range-wh-div-30_start_middle_no-seed-3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-high-penalty-num-surr-pts-plus-random-range-wh-div-30_start_middle_no-seed-3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-dist-from-nearest-edge-times-0.75-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-11.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-13.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-14.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-17.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.5-plus-random-range-wh-div-30_start_middle_no-seed-18.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-0.75-plus-random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth2cost_dist-from-start-times-1.5-plus-random-range-wh-div-30_start_middle_no-seed-4.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth3.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth3cost_dist-from-start-times-1.5-plus-random-range-wh-div-30_start_middle_no-seed-4.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/grid59x34depth3cost_random-range-wh-div-30_start_middle.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/wavy-line-ai_result5.jpg)
+
+![](https://github.com/wavy-project/wavy-line-ai_v1/blob/master/screenshots/wavy-line-ai_result6.jpg)

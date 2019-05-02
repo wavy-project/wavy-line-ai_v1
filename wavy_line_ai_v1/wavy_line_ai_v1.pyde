@@ -275,7 +275,7 @@ grid = []
 startPoint = (50, 30)
 
 segmentSearchDepth = 4
-verbose = 1
+verbose = 0
 
 # Sizes grid to the canvas, and then instantiates a WavyLineSearchProblem with
 # the determined size.
@@ -296,10 +296,15 @@ def setup():
     if verbose >= 1:
         print "Grid width = %s" % gridWidth
         print "Grid height = %s" % gridHeight
-
+        
     dfsid = DepthFirstSearchIterativeDeepening(segmentSearchDepth, verbose)
-    dfsid.solve(WavyLineProblem(gridWidth, gridHeight, startPoint, \
+    for i in range(2): # (1000000)
+        print(i)
+    # if True:
+        dfsid.solve(WavyLineProblem(gridWidth, gridHeight, startPoint, \
         updateDisplay))
+        saveFrame("line-######.png")
+        clear()
 
     # drawLine()
 
@@ -314,8 +319,9 @@ def makeGrid():
     yMargin = minBorderWidth + gridBorderMargin(height)
     xMargin = minBorderWidth + gridBorderMargin(width)
 
-    print "Y MARGIN", yMargin
-    print "X MARGIN", xMargin
+    if verbose >= 1:
+        print "Y MARGIN", yMargin
+        print "X MARGIN", xMargin
 
     colIndex = 0
     for y in range(yMargin, height - yMargin, pointSpacing):
